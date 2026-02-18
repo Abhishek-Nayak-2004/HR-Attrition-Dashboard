@@ -1,7 +1,8 @@
 # HR-Attrition-Dashboard
 This project is an interactive Employee Attrition Analysis Dashboard built using Microsoft Excel. It provides a comprehensive view of employee turnover, performance, and satisfaction metrics across different departments.
 
-##Employee Attrition Analysis Dashboard (Excel)
+## Employee Attrition Analysis Dashboard (Excel)
+
 **Overview**
 This project is an Employee Attrition Analysis Dashboard built using Microsoft Excel.
 The dashboard provides insights into employee performance, satisfaction, attrition trends, and department-wise analysis to help understand workforce behavior and identify key attrition drivers.
