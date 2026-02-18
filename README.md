@@ -13,7 +13,7 @@ The dashboard provides insights into employee performance, satisfaction, attriti
 4. Monitor attrition rate, overtime rate, and attrition count
 5. Enable interactive filtering using department slicers
 
-##**Dashboard Features**
+## **Dashboard Features**
 1. Average Performance & Tenure by Department
 2. Shows comparison between:
    Average Years at Company
@@ -27,7 +27,7 @@ The dashboard provides insights into employee performance, satisfaction, attriti
      Work-Life Balance
      Environment Satisfaction
 
-##🛠** Tools & Techniques Used**
+## 🛠 **Tools & Techniques Used**
 1. Microsoft Excel
 2. Pivot Tables
 3. Pivot Charts
@@ -35,7 +35,7 @@ The dashboard provides insights into employee performance, satisfaction, attriti
 5. Calculated Measures
 6. Data Aggregation & KPI Metrics
 
-##**Key Insights** 
+## **Key Insights** 
 1. Marketing and Sales departments show higher attrition.
 2. Overtime rate appears correlated with attrition in some departments.
 3. Departments with higher job involvement tend to have relatively stable performance ratings.
