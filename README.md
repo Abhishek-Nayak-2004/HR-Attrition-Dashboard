@@ -1,2 +1,50 @@
 # HR-Attrition-Dashboard
-This project is an interactive Employee Attrition Analysis Dashboard built using Microsoft Excel. It provides a comprehensive view of employee turnover, performance, and satisfaction metrics across different departments
+This project is an interactive Employee Attrition Analysis Dashboard built using Microsoft Excel. It provides a comprehensive view of employee turnover, performance, and satisfaction metrics across different departments.
+
+Employee Attrition Analysis Dashboard (Excel)
+Overview
+This project is an Employee Attrition Analysis Dashboard built using Microsoft Excel.
+The dashboard provides insights into employee performance, satisfaction, attrition trends, and department-wise analysis to help understand workforce behavior and identify key attrition drivers.
+
+Objectives
+1. Analyze employee attrition by department and gender
+2. Compare performance and tenure across departments
+3. Evaluate satisfaction metrics (Work-Life Balance, Environment Satisfaction, Job Involvement)
+4. Monitor attrition rate, overtime rate, and attrition count
+5. Enable interactive filtering using department slicers
+
+Dashboard Features
+1. Average Performance & Tenure by Department
+2. Shows comparison between:
+   Average Years at Company
+   Average Performance Rating
+3. Helps understand whether longer tenure impacts performance.
+4.Attrition by Department
+   Displays total attrition count across departments.
+   Identifies departments with highest employee turnover.
+5. Average Satisfaction Metrics
+    Includes:
+     Work-Life Balance
+     Environment Satisfaction
+
+🛠 Tools & Techniques Used
+
+Microsoft Excel
+
+Pivot Tables
+
+Pivot Charts
+
+Slicers (Department filter)
+
+Calculated Measures
+
+Data Aggregation & KPI Metrics
+
+Key Insights (Example)
+
+Marketing and Sales departments show higher attrition.
+
+Overtime rate appears correlated with attrition in some departments.
+
+Departments with higher job involvement tend to have relatively stable performance ratings.
