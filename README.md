@@ -36,6 +36,9 @@ The dashboard provides insights into employee performance, satisfaction, attriti
 5. Calculated Measures
 6. Data Aggregation & KPI Metrics
 
+   <img width="1892" height="799" alt="image" src="https://github.com/user-attachments/assets/fbbd0184-72bc-4b5f-9b72-823d31fe6f3a" />
+
+
 ## **Key Insights** 
 1. Marketing and Sales departments show higher attrition.
 2. Overtime rate appears correlated with attrition in some departments.
